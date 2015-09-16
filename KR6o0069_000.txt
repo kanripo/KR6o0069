@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 廣釋菩提心論
+#+DATE: 2015-08-30 21:00:32.581899
+#+PROPERTY: JUAN 0
