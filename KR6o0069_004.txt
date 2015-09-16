@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:32.362524
+#+DATE: 2015-08-30 21:00:34.098177
 #+TITLE: 廣釋菩提心論
 #+PROPERTY: CBETA_ID T32n1664
 #+PROPERTY: ID KR6o0069
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1664
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0069_T_000-0563a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0069_T_004-0570b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《廣釋菩提心論》卷第四¶
+《廣釋菩提心論》卷第四¶
 ¶
 蓮華戒菩薩造¶
 西天譯經三藏傳法大師¶
@@ -32,7 +31,7 @@
 不於中而生厭捨。一切所行悉無障礙。處如¶
 空聚。亦不於中而生厭捨。一切所行悉無障¶
 礙。界如蛇毒。亦不於中而生厭捨。一切所行¶
-悉無障礙。又復雖觀色如聚沫。亦不捨離如¶
+悉無障礙。又復雖觀色如聚沬。亦不捨離如¶
 來色身相好。受如浮泡。亦不於諸如來禪定
 <pb:KR6o0069_T_004-0570c>¶
 三摩地三摩鉢底出生妙樂中不起方便。想¶
