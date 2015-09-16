@@ -1,23 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:32.340898
+#+DATE: 2015-08-30 21:00:32.990756
 #+TITLE: 廣釋菩提心論
 #+PROPERTY: CBETA_ID T32n1664
 #+PROPERTY: ID KR6o0069
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1664
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6o0069_T_000-0563a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0069_T_003-0567c> ¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《廣釋菩提心論》卷第三¶
+《廣釋菩提心論》卷第三¶
 ¶
 蓮華戒菩薩造¶
-西天譯經三藏傳法大師賜¶
-紫沙門臣施護等奉　詔譯¶
+西天譯經三藏傳法大師賜紫沙門臣施護等奉　詔譯¶
 
 復次此中次第應修彼諸禪定。謂若得離欲¶
 愛所有喜樂。內心清淨住正相應。有尋有伺¶
