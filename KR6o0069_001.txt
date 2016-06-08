@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:32.288294
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:56
 #+TITLE: 廣釋菩提心論
 #+PROPERTY: CBETA_ID T32n1664
 #+PROPERTY: ID KR6o0069
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1664
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0069_T_000-0563a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0069_T_001-0563a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1664¶
-
- 《廣釋菩提心論》卷第一¶
+No. 1664¶
+《廣釋菩提心論》卷第一¶
 ¶
 蓮華戒菩薩造¶
 西天譯經三藏傳法大師¶
@@ -24,9 +23,9 @@ No.1664¶
 「　歸命三世一切佛
 　略集大乘諸法行¶
 　建立最初勝事業
-　我今廣釋菩提心
+　我今廣釋菩提心」
 #+END_VERSE
-」¶
+¶
 
 此中云何。若欲速證一切智者。總略標心住¶
 於三處。出生悲心。從悲發生大菩提心。所¶
@@ -109,7 +108,7 @@ No.1664¶
 <pb:KR6o0069_T_001-0564a>¶
 眾生我即不發是菩提心。¶
 
-如十法經云。一切眾生中。諸無救護者無歸¶
+如十地經云。一切眾生中。諸無救護者無歸¶
 趣者。無依止者無知見者。菩薩見已即生悲¶
 念。乃發阿耨多羅三藐三菩提心。若不為他¶
 開導教示。菩薩即不發阿耨多羅三藐三菩¶

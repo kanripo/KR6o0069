@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:32.320204
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:56
 #+TITLE: 廣釋菩提心論
 #+PROPERTY: CBETA_ID T32n1664
 #+PROPERTY: ID KR6o0069
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1664
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0069_T_000-0563a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0069_T_002-0565b> 
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《廣釋菩提心論》卷第二¶
+《廣釋菩提心論》卷第二¶
 ¶
 蓮華戒菩薩造¶
 西天譯經三藏傳法大師¶
