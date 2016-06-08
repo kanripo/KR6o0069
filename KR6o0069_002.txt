@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:33.515384
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:56
 #+TITLE: 廣釋菩提心論
 #+PROPERTY: CBETA_ID T32n1664
 #+PROPERTY: ID KR6o0069
